@@ -1,1 +1,1 @@
-## CPP(css-perspective-playground)是一个基于Vue开发的用于展示css可视化的小工具
+## CPP(css-perspective-playground)是一个基于Vue开发的用于展示css3D透视可视化的小工具
